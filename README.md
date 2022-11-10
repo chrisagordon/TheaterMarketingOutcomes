@@ -18,6 +18,7 @@ Module 1 Challenge
 Above that a short range from $35,000-45,000 were also above a 60% success rate. Any higher of a goal was sure to be a flop.
 
 ![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/0e797ffe59fd1db66fd899919207dba8ac47deca/Outcomes_vs_Goals.png)
+
   3. Results
 Conclusions based on Launch Date
   -The best time to launch a project would be in April and continue through August, any later or earlier in the year would miss the summer peak success rate
