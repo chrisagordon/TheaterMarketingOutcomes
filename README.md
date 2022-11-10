@@ -2,13 +2,13 @@
 Module 1 Challenge
 
   1 Overview of the Project
-  Louise has been fundraising different projects over the past decade using the crowdfunding service Kickstarter. 
+  - Louise has been fundraising different projects over the past decade using the crowdfunding service Kickstarter. 
   In order to improve the success rates of funding these projects, we can use the data gathered by each fundraising event to see if there are any correlations that will help drive the success of each project. 
   Specifically the play **Fever** was a rapidly funded project in a short amount of time.
   The success of this specific project led to questioning about how Launch Dates and Funding Goals compare with the crowdfunding outcome. 
   
   2 Analysis and Challenges
-  In order to determine if there was a correlation between the start date and the success of a project we decided to organize the data in a PivotTable. 
+  - In order to determine if there was a correlation between the start date and the success of a project we decided to organize the data in a PivotTable. 
   PivotTables allow for quick rearrangement and sorting of a large dataset in excel. 
   Filtering out specifically theater projects and sorting the data from all years into monthly order you can see a large spike in successful campaigns when the start date is in may.
   The failed or cancelled projects hold steady with minor fluctuation throughout the year. 
