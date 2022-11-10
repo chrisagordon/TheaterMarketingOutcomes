@@ -15,3 +15,7 @@ Module 1 Challenge
  
   ![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/13ba6711a20f47b8e97688c6083544561d696007/Theater_Outcomes_vs_Launch.png)
     
+-Additionally Louise was interested in finding what goals are more attainable for future projects. By examining what percentage of projects are successful based on dollar amount goal, you can see in the graph below that from 0-$20,000 more than 50% or more of the projects were successful.
+Above that a short range from $35,000-45,000 were also above a 60% success rate. Any higher of a goal was sure to be a flop.
+
+![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/13ba6711a20f47b8e97688c6083544561d696007/Theater_Outcomes_vs_Launch.png)
