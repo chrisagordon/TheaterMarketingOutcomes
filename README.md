@@ -8,5 +8,5 @@ Module 1 Challenge
   2 Analysis and Challenges
   
   
-    ![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/13ba6711a20f47b8e97688c6083544561d696007/Theater_Outcomes_vs_Launch.png)
+  ![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/13ba6711a20f47b8e97688c6083544561d696007/Theater_Outcomes_vs_Launch.png)
     
