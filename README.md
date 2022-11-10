@@ -14,8 +14,7 @@ Module 1 Challenge
   The failed or cancelled projects hold steady with minor fluctuation throughout the year. 
  
   ![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/13ba6711a20f47b8e97688c6083544561d696007/Theater_Outcomes_vs_Launch.png)
-    
-  -Additionally Louise was interested in finding what goals are more attainable for future projects. By examining what percentage of projects are successful based on the dollar amount goal, you can see in the graph below that from 0-$20,000 more than 50% or more of the projects were successful.
+  - Additionally Louise was interested in finding what goals are more attainable for future projects. By examining what percentage of projects are successful based on the dollar amount goal, you can see in the graph below that from 0-$20,000 more than 50% or more of the projects were successful.
 Above that a short range from $35,000-45,000 were also above a 60% success rate. Any higher of a goal was sure to be a flop.
 
 ![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/0e797ffe59fd1db66fd899919207dba8ac47deca/Outcomes_vs_Goals.png)
