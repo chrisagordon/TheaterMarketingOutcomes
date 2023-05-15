@@ -1,4 +1,4 @@
-# Module1Challenge
+# Theater Marketing Outcomes
 Module 1 Challenge
 
   1. Overview of the Project
